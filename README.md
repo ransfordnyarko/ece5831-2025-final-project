@@ -67,7 +67,7 @@ A live demo illustrates:
 - Probability distribution over emotion classes
 
 **Demo video:**  
-[Link to demo video]:https://youtu.be/ZGbZhUc7IHA
+[Link to demo video]: https://youtu.be/RwUtVP3CYO8
 
 ---
 
@@ -88,7 +88,7 @@ All required submission materials are linked below:
 [Link to dataset or dataset README]: https://www.kaggle.com/datasets/ejlok1/cremad
 
 **Demo video:**  
-[Link to demo video]: https://youtu.be/ZGbZhUc7IHA
+[Link to demo video]: https://youtu.be/RwUtVP3CYO8
 
 ---
 
