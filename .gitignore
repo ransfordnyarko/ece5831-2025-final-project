@@ -1,0 +1,22 @@
+#Kera models
+*.h5
+
+# Byte-compiled / optimized/ 
+__pycache__/
+*$py.class
+
+# models
+models/
+
+#logs
+logs/
+
+#Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
