@@ -4,7 +4,7 @@ This project focuses on **speech emotion recognition (SER)** using two complemen
 1. A **task-specific CNN–BiLSTM** model trained on log-mel spectrograms.
 2. A **self-supervised learning (SSL)–based approach** using pretrained wav2vec embeddings with a lightweight classifier.
 
-The goal is to demonstrate how combining handcrafted time–frequency modeling with pretrained speech representations can improve robustness in emotion prediction.
+The goal is to demonstrate how combining time–frequency modeling with pretrained speech representations can improve robustness in emotion prediction.
 
 ---
 
