@@ -76,7 +76,7 @@ A live demo illustrates:
 All required submission materials are linked below:
 
 **Pre-recorded presentation video:**  
-[Link to presentation video]: https://drive.google.com/file/d/1iNro6dZ2Nt53fMnQMj1_QQMesbugK0OK/view?usp=drive_link
+[Link to presentation video]: https://drive.google.com/file/d/1ErSclj2-kGKeV9t6s3hgrqgKMkAiSBf1/view?usp=drive_link
 
 **Presentation slides:**  
 [Link to presentation slide]: (https://docs.google.com/presentation/d/1XcLfverBRftLosu7dHRQmeapMuWqvffv/edit?usp=drive_link&ouid=104540571341922337102&rtpof=true&sd=true)
